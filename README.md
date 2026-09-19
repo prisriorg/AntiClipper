@@ -49,7 +49,7 @@ powershell -ExecutionPolicy Bypass -File .\AntiClipper.ps1
 ### Method 2: One-Liner Quick Scan
 
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.com/<YOUR_USERNAME>/AntiClipper/main/AntiClipper.ps1 | iex"
+powershell -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.com/prisriorg/AntiClipper/main/AntiClipper.ps1 | iex"
 ```
 
 ---
@@ -116,7 +116,15 @@ powershell -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.c
 3. Keep Windows and your browser extensions regularly updated.
 
 ---
+ 
+ ## 👤 Author & Owner
+
+* **Owner / Developer:** Priyansh Srivastava
+* **GitHub Profile:** [@prisriorg](https://github.com/prisriorg)
+* **GitHub Repository:** [AntiClipper](https://github.com/prisriorg/AntiClipper)
+
+---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to share, fork, and contribute!
+This project is licensed under the [MIT License](LICENSE) &copy; 2026 Priyansh Srivastava. Feel free to share, fork, and contribute!

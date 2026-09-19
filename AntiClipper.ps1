@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
     AntiClipper - Advanced Crypto Clipboard Hijacker Detector & Remediation Tool
-    Author: Community Open Source Security
+    Author: Priyansh Srivastava (GitHub: @prisriorg)
     License: MIT
     
 .DESCRIPTION
@@ -37,6 +37,7 @@ function Show-Banner {
     Write-Host "    CRYPTO CLIPBOARD HIJACKER DETECTOR & CLEANER v1.0   " -ForegroundColor Cyan
     Write-Host "====================================================================" -ForegroundColor Cyan
     Write-Host " [!] Protects Ethereum, Bitcoin, Solana and other Crypto assets" -ForegroundColor DarkGray
+    Write-Host " [!] Author: Priyansh Srivastava (@prisriorg)" -ForegroundColor DarkGray
     Write-Host "====================================================================`n" -ForegroundColor Cyan
 }
 
